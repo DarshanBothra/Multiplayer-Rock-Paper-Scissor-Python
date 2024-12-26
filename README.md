@@ -1,2 +1,9 @@
 # Online-Rock-Paper-Scissor
-Rock Paper Scissors set up on your local host! You can play with anyone connected to the same network on different machines... just a little fun project!
+
+IMPORTANT INSTRUCTIONS
+
+. The game is set up on your local host, so everyone connected to the same wifi network, on different machines can play
+. In the files server.py and network.py change the server to your localhost ip address (VIMP)
+. To play, start the server (one device), share the files with the other player, and run the client.py file
+. install pygame!
+. ENJOY
