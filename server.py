@@ -59,8 +59,7 @@ def threadClient(conn, p, gameId):
 
 # Creating a server side socket with TCP Data Comm.
 
-SERVER = "<LOCALHOST IP HERE>"
-SERVER = "127.0.0.1"
+SERVER = "localhost"
 PORT = 5555
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
